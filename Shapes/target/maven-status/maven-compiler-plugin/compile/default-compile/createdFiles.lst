@@ -1,0 +1,8 @@
+Menu\IShapes.class
+Menu\IExecutableAction.class
+Menu\IMenuItem.class
+Menu\Menu.class
+Menu\Circle.class
+Menu\Canvas.class
+Menu\Square.class
+Menu\MenuItem.class
